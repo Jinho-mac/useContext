@@ -17,7 +17,7 @@ const FunctionContextComponent = () => {
 
   return (
     <div>
-      <button style={buttonStyle} onClick={updateTheme}>Toggle Button</button>
+      <button style={buttonStyle} onClick={updateTheme}>Toggle Btn</button>
       <div style={themeStyles}>
         Function Theme
       </div>
